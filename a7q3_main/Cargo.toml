@@ -1,0 +1,10 @@
+[package]
+name = "a7q3_main"
+version = "0.1.0"
+authors = ["ahmed"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+a7q3_lib = {path = "/home/ahmed/projects/assignment_7/a7q3_lib"}
